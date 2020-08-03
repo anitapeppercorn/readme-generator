@@ -1,0 +1,32 @@
+{
+  "name": "readme-generator-project_anita-ganti",
+  "version": "1.0.0",
+  "description": "helps create a readme.md",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitapeppercorn/readme-generator.git"
+  },
+  "keywords": [
+    "node",
+    "inquirer",
+    "fs"
+  ],
+  "author": "Anita Ganti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anitapeppercorn/readme-generator/issues"
+  },
+  "homepage": "https://github.com/anitapeppercorn/readme-generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {}
+}
